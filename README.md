@@ -9,4 +9,4 @@ Create an interactive simple card game which the user needs to select either hig
 - check win/loss.
 
 # Images
-![](Images/ace.PNG)
+![](images/ace.PNG)
